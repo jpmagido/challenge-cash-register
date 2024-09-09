@@ -30,6 +30,10 @@ Here are some test data:
 
 Basket: FR1, AP1, FR1, CF1 Total price expected: $19.34 Basket: FR1, FR1 Total price expected: $3.11 Basket: AP1, AP1, FR1, AP1 Total price expected: $16.61  
 
-PS: We love specs ;)  
+PS: 
+- We love specs ;)
+- We also love explicit commits
 
 The purpose of this test is to verify your abilities to code and see how you architect an application.
+
+__Please clone this repo, do not fork it.__
